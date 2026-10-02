@@ -1,7 +1,6 @@
-# DSH 插件索引
+# DeepSeek Harness 插件索引
 
-[DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)（dsh）Web UI
-的插件，每个插件都是独立仓库。
+[DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)（dsh）Web 界面的插件，每个插件都是独立仓库。
 
 | 插件 | 说明 | 仓库 |
 | --- | --- | --- |
